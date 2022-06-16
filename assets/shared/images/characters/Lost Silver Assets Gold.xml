@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lost Silver Assets Gold.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Full Silver Up0000" x="0" y="11" width="407" height="708" frameX="-12" frameY="0" frameWidth="418" frameHeight="757"/>
+	
+	<SubTexture name="Lost Silver Left finished0000" x="459" y="0" width="763" height="655" frameX="0" frameY="0" frameWidth="813" frameHeight="687"/>
+	
+	<SubTexture name="Silver Down Full0000" x="1251" y="77" width="495" height="496"/>
+	
+	<SubTexture name="Silver Idle0000" x="54" y="738" width="387" height="577" frameX="0" frameY="-1" frameWidth="387" frameHeight="579"/>
+	
+	<SubTexture name="Silver Right Finished0000" x="539" y="662" width="644" height="622" frameX="-17" frameY="0" frameWidth="833" frameHeight="639"/>
+	
+	<SubTexture name="Silver Spawn Full0000" x="1247" y="590" width="387" height="577" frameX="0" frameY="0" frameWidth="387" frameHeight="578"/>
+	<SubTexture name="Silver Spawn Full0001" x="1247" y="590" width="387" height="577" frameX="0" frameY="0" frameWidth="387" frameHeight="578"/>
+	
+	<SubTexture name="Silver Spawn Full0002" x="1247" y="590" width="387" height="577"/>
+	<SubTexture name="Silver Spawn Full0003" x="1247" y="590" width="387" height="577"/>
+	
+	<SubTexture name="Silver Spawn Full0004" x="1247" y="590" width="387" height="577"/>
+	<SubTexture name="Silver Spawn Full0005" x="1247" y="590" width="387" height="577"/>
+	
+	<SubTexture name="Silver Spawn Full0006" x="1247" y="590" width="387" height="577" frameX="0" frameY="0" frameWidth="387" frameHeight="578"/>
+	
+	<SubTexture name="Silver Spawn Full0007" x="111" y="1318" width="387" height="499" frameX="0" frameY="0" frameWidth="387" frameHeight="578"/>
+	<SubTexture name="Silver Spawn Full0008" x="517" y="1320" width="386" height="518" frameX="0" frameY="-79" frameWidth="387" frameHeight="578"/>
+	<SubTexture name="Silver Spawn Full0009" x="923" y="1318" width="387" height="536" frameX="0" frameY="-58" frameWidth="387" frameHeight="578"/>
+	
+	<SubTexture name="Silver Spawn Full0010" x="1348" y="1325" width="388" height="554" frameX="0" frameY="-42" frameWidth="387" frameHeight="578"/>
+	<SubTexture name="Silver Spawn Full0011" x="149" y="1848" width="387" height="569" frameX="0" frameY="-23" frameWidth="387" frameHeight="578"/>
+	<SubTexture name="Silver Spawn Full0012" x="556" y="1848" width="387" height="569" frameX="0" frameY="-9" frameWidth="387" frameHeight="578"/>
+	<SubTexture name="Silver Spawn Full0013" x="54" y="738" width="387" height="577" frameX="0" frameY="-9" frameWidth="387" frameHeight="578"/>
+	<SubTexture name="Silver Spawn Full0014" x="54" y="738" width="387" height="577" frameX="0" frameY="0" frameWidth="387" frameHeight="578"/>
+	<SubTexture name="Silver Spawn Full0015" x="54" y="738" width="387" height="577" frameX="0" frameY="0" frameWidth="387" frameHeight="578"/>
+	<SubTexture name="Silver Spawn Full0016" x="54" y="738" width="387" height="577" frameX="0" frameY="0" frameWidth="387" frameHeight="578"/>
+	<SubTexture name="Silver Spawn Full0017" x="54" y="738" width="387" height="577" frameX="0" frameY="0" frameWidth="387" frameHeight="578"/>
+</TextureAtlas>

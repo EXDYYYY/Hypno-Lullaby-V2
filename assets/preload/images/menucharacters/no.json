@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M Pico Idle",
+	"image": "no",
+	"position": [
+		0,
+		-120
+	],
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

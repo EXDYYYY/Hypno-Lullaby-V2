@@ -1,0 +1,22 @@
+bf
+dad
+gf
+hypno
+hypno-two
+buried
+missingno
+ba-missingno
+bf-pixel
+gold
+gengar
+googar
+ponyta
+smol-hypno
+red
+red-dead
+wigglytuff
+DECAY 1
+DECAY 2
+STARE
+cold-gold
+silver

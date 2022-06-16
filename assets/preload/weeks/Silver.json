@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Insomnia",
+			"silver",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "silver",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"no",
+		"no",
+		"no"
+	],
+	"storyName": "Lullaby V2",
+	"weekName": "silver",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "silver",
+	"startUnlocked": true
+}

@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Frostbite",
+			"cold-gold",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "red",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"no",
+		"no",
+		"no"
+	],
+	"storyName": "Lullaby V2",
+	"weekName": "red",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "red",
+	"startUnlocked": true
+}
