@@ -65,13 +65,6 @@ jobs:
           haxelib git linc_luajit https://github.com/Daninnocent/linc_luajit.git --quiet
           haxelib install actuate 
           haxelib list
-          
-      - name: Build Log
-        run: |
-          haxelib run lime setup android
-          haxelib run lime build android -final
-          
-      - uses: actions/upload-artifact@v2
-        with:
+        
           name: Android Build
           path: export/release/android/bin/app/build/outputs/apk/debug
